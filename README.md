@@ -1,2 +1,3 @@
 # AntiJamComm
-AntiJamComm is a Proof of Concept (PoC) project aimed at developing a resilient communication system for Unmanned Aerial Vehicles (UAVs) and other remote-operated systems in electronically contested environments.
+
+AntiJamComm is an innovative communication system designed to ensure reliable and secure communication for drones and other unmanned systems in environments with heavy electronic warfare interference. This system is inspired by recent advancements in electronic warfare and drone technology, particularly those observed in the Russia-Ukraine conflict. AntiJamComm aims to provide a robust solution for maintaining communication links in contested electromagnetic environments, enhancing the operational effectiveness and resilience of unmanned aerial vehicles (UAVs) and other remote systems.
