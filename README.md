@@ -1,6 +1,6 @@
 # AntiJamComm
 
-AntiJamComm is an innovative communication system designed to ensure reliable and secure communication for drones and other unmanned systems in environments with heavy electronic warfare interference. 
+AntiJamComm is a proof of concept communication system designed to ensure reliable and secure communication for drones and other unmanned systems in environments with heavy electronic warfare interference. 
 
 This system is inspired by recent advancements in electronic warfare and drone technology, particularly those observed in the Russia-Ukraine conflict. 
 
